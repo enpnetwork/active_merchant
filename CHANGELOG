@@ -1,5 +1,9 @@
 = ActiveMerchant CHANGELOG
 
+== Version 1.43.1-enp-2 (October 30, 2018)
+
+* Cherry pick BIN-2 support from main repo
+
 == Version 1.43.1 (May 1, 2014)
 
 * Merchant Warrior: Scrub names [duff]
